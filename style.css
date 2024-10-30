@@ -8,3 +8,9 @@ body {
   margin: 0;
   background-color: #d5e1ef;
 }
+#component {
+  background-color: #ffff;
+  height: auto;
+  width: 35vw;
+  margin-left: ;
+}
