@@ -33,7 +33,7 @@ img {
   margin-bottom: 15px;
 }
 
-.span {
-  font-size: 14px;
-  /* line-height: 1.5; */
+.text {
+  line-height: 1.5;
+  max-width: 280px;
 }
