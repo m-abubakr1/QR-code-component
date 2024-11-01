@@ -33,9 +33,7 @@ img {
   margin-bottom: 15px;
 }
 
-.text {
+.span {
   font-size: 14px;
-  line-height: 1.5;
-}
-.card {
+  /* line-height: 1.5; */
 }
