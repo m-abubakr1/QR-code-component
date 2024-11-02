@@ -23,13 +23,11 @@ body {
 }
 
 img {
-  /* background-color: #007bff; */
   border-radius: 10px;
   width: 250px;
 }
 
 .qr-code {
-  /* background-color: #fff; */
   margin-bottom: 15px;
 }
 
