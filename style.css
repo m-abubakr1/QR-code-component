@@ -35,3 +35,12 @@ img {
   line-height: 1.5;
   max-width: 280px;
 }
+h3 {
+  font-size: 1.3em;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+p {
+  font-size: 15px;
+  color: #adaeb4;
+}
